@@ -1,0 +1,19 @@
+#container-year{
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+}
+.row-month{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.box-month{
+    padding-top:5vh;
+    height: 150px;
+    width: 150px;
+}
+.month-earnings{
+    padding-top:5vh;
+}

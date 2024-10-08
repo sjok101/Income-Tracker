@@ -1,0 +1,16 @@
+{
+  "name": "income-tracker",
+  "productName": "Income Tracker",
+  "version": "1.0.0",
+  "description": "Track earning/spendings and export/import excel files for viewing/downloading income reports.",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electronmon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basil Ok",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
